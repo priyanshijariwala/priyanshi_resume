@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    color: #8e9ae8;
+    color: #333;
 }
 nav{
     padding:50px 0px;
     color: rgb(64, 54, 54);
-    background-color: #db8ea9;
+    /* background-color: #db8ea9; */
 }
 nav a{
     padding:50px;
